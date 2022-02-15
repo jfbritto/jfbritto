@@ -5,7 +5,7 @@ Sempre usando Linux, Git e Docker, vou desembolando as tasks que são a mim atri
 Atualmente, pra diversificar meus conhecimentos tenho estudado NodeJS.<br>
 <br>
 **Job**: PHP Developer @ Superlógica Tecnologias.<br>
-**Formação**: Analista de Sistemsa @ IFES.<br>
+**Formação**: Analista de Sistemas @ IFES.<br>
 **Workflow**: Linux, Xfce e VSCode.<br>
 
 <div>
