@@ -12,11 +12,11 @@ Atualmente, pra diversificar meus conhecimentos tenho estudado NodeJS.<br>
 
 <div style="display: inline_block"><br>
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=geAxqWV0aAaI&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=GOHWqwnSE8Sv&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=xBKl2pdJg5kk&format=png" />
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=CMVEhOBzk3Zp&format=png" />
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=V6HShIzw21x7&format=png" />
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=5cVdiiKKi0vX&format=png" />
+  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=GOHWqwnSE8Sv&format=png" />
+  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=xBKl2pdJg5kk&format=png" />
 </div>
  <br>
 <div>
