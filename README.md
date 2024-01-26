@@ -18,7 +18,7 @@ Atualmente, pra diversificar meus conhecimentos tenho estudado NodeJS.<br>
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=V6HShIzw21x7&format=png" />
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=5cVdiiKKi0vX&format=png" />
 </div>
- 
+ <br>
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-filipi-britto-a7375a103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/bianchijf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
