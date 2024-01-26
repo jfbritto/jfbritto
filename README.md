@@ -7,12 +7,6 @@ Atualmente, pra diversificar meus conhecimentos tenho estudado NodeJS.<br>
 **Job**: PHP Developer @ Superlógica Tecnologias.<br>
 **Formação**: Analista de Sistemas @ IFES.<br>
 **Workflow**: Linux, Xfce e VSCode.<br>
-
-<div>
-  <a href="https://github.com/jfbritto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jfbritto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfbritto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
   
 ##
  
