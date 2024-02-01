@@ -1,8 +1,6 @@
 ## Fala ae, João Filipi aqui 🙋🏽‍♂️
 
-Nos últimos anos, tenho me aprofundado em sistemas web, desenvolvi diversas aplicações com a linguagem PHP, framework Laravel.<br>
-Sempre usando Linux, Git e Docker, vou desembolando as tasks que são a mim atribuídas.<br>
-Atualmente, pra diversificar meus conhecimentos tenho estudado NodeJS.<br>
+In recent years, I have delved into web systems, developing various applications using the PHP language and the Laravel framework. Always utilizing Linux, Git, and Docker, I tackle the tasks assigned to me. Currently, to diversify my skills, I have been studying NodeJS.<br>
 <br>
 **Job**: PHP Developer @ Superlógica Tecnologias.<br>
 **Formação**: Analista de Sistemas @ IFES.<br>
