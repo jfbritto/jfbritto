@@ -1,11 +1,19 @@
 ## Fala ae, João Filipi aqui 🙋🏽‍♂️
 
-In recent years, I have delved into web systems, developing various applications using the PHP language and the Laravel framework. Always utilizing Linux, Git, and Docker, I tackle the tasks assigned to me. Currently, to diversify my skills, I have been studying NodeJS.<br>
+Software Engineer focused on building scalable web systems with **PHP (Laravel)** and modern backend technologies like **Node.js / NestJS**.
+
+I have solid experience designing and maintaining APIs, working with relational databases such as **MySQL** and **PostgreSQL**, and applying best practices like **Clean Architecture** and **RESTful design**.
+
+Currently, I leverage **AI tools** to boost productivity, automate workflows, and deliver faster and more reliable solutions.
+
 <br>
-**Job**: PHP Developer @ Superlógica Tecnologias.<br>
-**Formação**: Analista de Sistemas @ IFES.<br>
-**Workflow**: Linux, Xfce e VSCode.<br>
-  
+
+**💼 Job**: Senior Software Developer @ Superlógica Tecnologias  
+**🎓 Education**: Systems Analyst @ IFES  
+**⚙️ Stack**: Laravel, Node.js, NestJS, MySQL, PostgreSQL, Docker  
+**🧠 Interests**: AI, system design, performance, and scalability  
+**💻 Workflow**: Linux (XFCE), VSCode, Git  
+
 ##
 
 <div style="display: inline_block"><br>
@@ -16,8 +24,14 @@ In recent years, I have delved into web systems, developing various applications
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=GOHWqwnSE8Sv&format=png" />
   <img height="64" width="64" src="https://img.icons8.com/?size=256&id=xBKl2pdJg5kk&format=png" />
 </div>
- <br>
+
+<br>
+
 <div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipi-britto-a7375a103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/bianchijf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipi-britto-a7375a103/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://instagram.com/bianchijf" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
