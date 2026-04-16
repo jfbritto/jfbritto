@@ -1,37 +1,17 @@
-## Fala ae, João Filipi aqui 🙋🏽‍♂️
+# João Filipi Britto :man_technologist:
 
-Software Engineer focused on building scalable web systems with **PHP (Laravel)** and modern backend technologies like **Node.js / NestJS**.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jfbritto)](https://github.com/jfbritto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jfbritto/)](https://www.linkedin.com/in/jfbritto/)
 
-I have solid experience designing and maintaining APIs, working with relational databases such as **MySQL** and **PostgreSQL**, and applying best practices like **Clean Architecture** and **RESTful design**.
+### Hey there! 👋
 
-Currently, I leverage **AI tools** to boost productivity, automate workflows, and deliver faster and more reliable solutions.
+I'm João Filipi Britto, a Software Developer and founder of Helpflux — a company focused on building custom software solutions and SaaS products.
 
-<br>
+💻 Main stack: PHP (Laravel), MySQL  
+⚙️ Also working with: Node.js, NestJS, PostgreSQL, TypeScript  
+🐳 Tools: Docker, Git, Linux, MacOS
+🤖 Strong use of AI to boost productivity and problem-solving  
 
-**💼 Job**: Senior Software Developer @ Superlógica Tecnologias  
-**🎓 Education**: Systems Analyst @ IFES  
-**⚙️ Stack**: Laravel, Node.js, NestJS, MySQL, PostgreSQL, Docker  
-**🧠 Interests**: AI, system design, performance, and scalability  
-**💻 Workflow**: Linux (XFCE), VSCode, Git  
+🚀 Founder at Helpflux — building real-world systems and helping businesses digitize and scale their operations.
 
-##
-
-<div style="display: inline_block"><br>
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=geAxqWV0aAaI&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=CMVEhOBzk3Zp&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=V6HShIzw21x7&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=5cVdiiKKi0vX&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=GOHWqwnSE8Sv&format=png" />
-  <img height="64" width="64" src="https://img.icons8.com/?size=256&id=xBKl2pdJg5kk&format=png" />
-</div>
-
-<br>
-
-<div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-filipi-britto-a7375a103/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="https://instagram.com/bianchijf" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+---
