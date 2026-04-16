@@ -5,7 +5,7 @@
 
 ### Hey there! 👋
 
-I'm João Filipi Britto, a Software Developer and founder of Helpflux — a company focused on building custom software solutions and SaaS products.
+I'm João Filipi Britto, a Software Engineering and founder of Helpflux — a company focused on building custom software solutions and SaaS products.
 
 💻 Main stack: PHP (Laravel), MySQL  
 ⚙️ Also working with: Node.js, NestJS, PostgreSQL, TypeScript  
